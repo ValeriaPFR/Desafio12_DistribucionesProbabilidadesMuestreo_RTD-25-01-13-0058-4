@@ -58,7 +58,7 @@ print(f"Desviación estándar empírica de las muestras: {std_de_medias:.2f} min
 print(f"Error estándar teórico calculado: {error_estandar_teorico:.2f} minutos\n")
 
 # -----------------------------------------------------------------------------
-# COMENTARIOS DE COMPARACIÓN Y ANÁLISIS (Exigidos en las instrucciones)
+# COMENTARIOS DE COMPARACIÓN Y ANÁLISIS 
 # -----------------------------------------------------------------------------
 # 1. ¿La media de las medias muestrales es similar a la media_poblacional?
 # R: Sí, son prácticamente iguales. Mientras que la población real tiene 
